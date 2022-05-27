@@ -33,6 +33,9 @@ hr {
     background-color: brown;
     border-color: brown;
 }
+.bottom-line {
+    margin-bottom: 25px;
+}
 
 .item p {
     display: inline-block;
