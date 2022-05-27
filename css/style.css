@@ -27,6 +27,10 @@ h2 {
     max-width: 500px;
 
 }
+hr {
+    height: 3px;
+    background-color: brown;
+}
 
 .item p {
     display: inline-block;
