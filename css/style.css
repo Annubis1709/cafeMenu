@@ -61,6 +61,9 @@ footer {
 a {
     color: black;
 }
+a:visited {
+    color: gray;
+}
 
 
 
